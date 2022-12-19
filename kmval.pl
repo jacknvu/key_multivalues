@@ -1,5 +1,8 @@
 #!/usr/bin/perl
 
+# script key multiple values
+# run script pipe to sed 's/://'
+
 use strict;
 
 my %k_vals;
